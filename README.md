@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/564x/02/5f/66/025f66da73a40e1af2224d7d579152a3.jpg)
+<img src="https://i.pinimg.com/564x/02/5f/66/025f66da73a40e1af2224d7d579152a3.jpg" alt="Banner" style="width:100%;">
 
 # Hi there! 👋
 
