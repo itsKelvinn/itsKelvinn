@@ -1,24 +1,17 @@
+![Banner](https://i.pinimg.com/564x/02/5f/66/025f66da73a40e1af2224d7d579152a3.jpg)
+
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession/Interest] from [Your Location]. 
+I'm Kelvin, a Computer Science student at Binus University, currently interning at Prodia Widyahusada as a Full Stack Developer / Software Engineer.
 
-- 🔭 I’m currently working on [Your Current Project/Job]
-- 🌱 I’m currently learning [What You're Learning]
-- 💬 Ask me about [Your Expertise/Interests]
-- 📫 How to reach me: [Your Email/Website/Social Media]
-- 😄 Pronouns: [Your Pronouns]
+- 🔭 Currently working on internship projects at Prodia Widyahusada
+- 🌱 Learning various aspects of Full Stack Development
+- 💬 Ask me about programming, web development, or anything else!
+- 📫 You can reach me via email: [kelvingiovanno2000@gmail.com]
 
 ### Technologies & Tools
-- [Tech/Tool 1]
-- [Tech/Tool 2]
-- [Tech/Tool 3]
-
-### Projects
-- [Project 1]: Brief description
-- [Project 2]: Brief description
-
-### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsKelvinn&show_icons=true&theme=radical)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsKelvinn&layout=compact)
+- HTML/CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
